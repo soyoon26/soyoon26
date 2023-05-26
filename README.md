@@ -1,5 +1,7 @@
 # For Isang🥨
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoon26&show_icons=true&theme=radical)
+
 
 <!--
 **soyoon26/soyoon26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
