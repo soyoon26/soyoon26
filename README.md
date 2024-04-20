@@ -1,7 +1,13 @@
 # For Isang🥨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoon26&show_icons=true&theme=radical)
+### 💻 My Github
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoon26&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoon26&layout=compact&theme=dracula)
+
+### 🥇 Solved.ac
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanggharr)](https://solved.ac/sanggharr)
 
 <!--
 **soyoon26/soyoon26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
