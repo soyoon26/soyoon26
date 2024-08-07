@@ -1,4 +1,8 @@
 # For Isang🥨
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/soyoon26"/>
+</a>
+
 
 ### 💻 My Github
 
@@ -44,6 +48,7 @@
 ### 🥇 Solved.ac
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanggharr)](https://solved.ac/sanggharr)
+
 
 <!--
 **soyoon26/soyoon26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
