@@ -9,6 +9,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoon26&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoon26&layout=compact&theme=dracula)
 
+### 🥇 Awards
+2023.08 삼성 청년 SW 아카데미 공통 프로젝트 우수상 3등
+
+2023.10 삼성 청년 SW 아카데미 특화 프로젝트 우수상 2등
+
+2023.11 삼성 청년 SW 아카데미 공통 프로젝트 우수상 3등
 
 
 ### ✨ TechStack
